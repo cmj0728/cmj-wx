@@ -14,8 +14,6 @@ public class Character {
 	 * 
 	 * @return 半角 String
 	 * 
-	 * @author Gyb
-	 * 
 	 */
 
 	public static String SBC2DBC(String SBCString) {

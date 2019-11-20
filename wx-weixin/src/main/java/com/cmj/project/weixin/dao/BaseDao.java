@@ -2,7 +2,6 @@
  *	@filename:BaseDao.java
  *  @basepath:com.zxt.khzy.dao.impl 
  *  @description:TODO
- *  @author:fangxiaohua
  *  @created:2013-9-11下午8:16:13
  *  @version:V1.0
  */
@@ -17,9 +16,9 @@ import java.util.ArrayList;
 import java.util.Properties;
 
 /**
- * @author guoweixin
+ * @author caiminjie
  * @Description 与数据库交互的基础类
- * @created 2013-9-11 下午8:16:13
+ * @created 2019-11-20 下午9:00:00
  * @History 
  * @version v1.0
  */

@@ -3,7 +3,6 @@ package com.cmj.project.weixin.util;
 import java.io.UnsupportedEncodingException;
 /**
  * 把中文字符转换为带百分号的浏览器编码
- * @author guoweixin 
  *
  */
 public class CodeConverter
